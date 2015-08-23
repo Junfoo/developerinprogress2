@@ -18,6 +18,7 @@ gem 'masonry-rails', '~> 0.2.0'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 gem 'will_paginate', '~> 3.0.5'
 gem 'will_paginate-bootstrap'
+gem 'execjs'
 
 
 group :development, :test do
